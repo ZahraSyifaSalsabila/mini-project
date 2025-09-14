@@ -22,7 +22,6 @@ Tugas: Mini Project 1
 
 
 
-[Uploading Mini Project DDP 2.py…]()
 
 
 
